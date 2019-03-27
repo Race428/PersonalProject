@@ -1,0 +1,26 @@
+body {
+  margin: 0px;
+}
+.background-photo { 
+ 
+
+}
+
+.name {
+  font-size: 40px;
+  font-family: 'Charm', cursive;
+}
+
+.user-login { 
+  height: 30px;
+  width: 60px;
+  
+
+}
+
+.signin {
+  height: 40px;
+  width: 100px;
+  border-radius: 15px;
+
+}
